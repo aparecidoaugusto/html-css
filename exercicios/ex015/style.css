@@ -1,0 +1,20 @@
+@charset "ut-f8";
+
+body {
+    background-color: rgb(214, 247, 161);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  h1 {
+    color: rgb(4, 66, 30);
+    background-color: rgb(163, 211, 250);
+  }
+
+  h2 {
+    color: rgb(153, 108, 10);
+   
+  }
+
+  p {
+    text-align: justify;
+  }
